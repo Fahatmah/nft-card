@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo](https://github.com/Fahatmah/nft-card.git)
-- Live Site URL: [Live View](https://nft-card-frontendmentor.netlify.app/)
+- Live Site URL: [Live View](https://nft-card-fem-challenge.netlify.app/)
 
 ## My process
 
